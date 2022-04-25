@@ -214,7 +214,7 @@ header .form i {
   position: absolute;
   left: 50%;
   bottom: 30px;
-  transform: var(--trans-4-center);
+  transform: translatex(-50%);
   display: flex;
 }
 .landing .bullets li {
